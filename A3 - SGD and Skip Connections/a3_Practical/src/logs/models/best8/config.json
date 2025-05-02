@@ -1,0 +1,1 @@
+{"num_epochs": 35, "batch_size": 25, "model": "MLP", "optimizer": "SGD", "learning_rate": 0.05, "save_path": "./logs", "load_path": null, "eval": false, "seed": 42}
